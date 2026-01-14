@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋 I'm ruka0911
 
-<!--
-**ruka0911/ruka0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐶 **Founder of WAVIS** - Solana Rent Recovery Protocol
+I build tools to make Web3 safer and cleaner.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **[WAVIS](https://github.com/ruka0911/wavis-web)** (Solana Wallet Cleaner)
+- 🌱 Focus: Solana, Privacy, Web3 Security
+- ⚡ Fun fact: WAVIS is 0% fee & 100% client-side!
+- 💬 Ask me about: How to recover your rent from spam accounts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+[![WAVIS](https://img.shields.io/badge/Project-WAVIS-F97316?style=for-the-badge&logo=solana&logoColor=white)](https://github.com/ruka0911/wavis-web)
